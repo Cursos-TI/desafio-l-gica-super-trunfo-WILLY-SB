@@ -1,25 +1,45 @@
 #include <stdio.h>
 
-// Desafio Super Trunfo - Países
 // Tema 2 - Comparação das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
     printf("Desafio xadres");
-    
-    // Definição das variáveis para armazenar as propriedades das cidades
-    // Você pode utilizar o código do primeiro desafio
+    char Código da carta;
+    int Estado;
+    int Nome da cidade;
+    int População;
+    float Área;
+    float PIB
+
+    printf("código da carta, A01")
+    scanf("%s",Código);
+
+    printf("Digite Estado")
+    scanf("%s", Estado);
+
+    printf("Digite nome da Cidade");
+    scanf("%d", Cidade );
+
+    printf("Digite a Populaçao");
+    scanf("%f", População);
+
+    printf("Digite área")
+    scanf("%f", Área);
+
+    printf("Digite Pib");
+    scanf("%f" PIB);
+
+    restru 0;
+
+}
+
+
+
+   
 
     
-    // Cadastro das Cartas:
-    // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
-    // utilizando a função scanf para capturar as entradas.
-    // utilize o código do primeiro desafio
-
-    // Exemplo:
-    // printf("Digite o código da cidade: ");
-    // scanf("%s", codigo);
     // 
     // (Repita para cada propriedade)
 
